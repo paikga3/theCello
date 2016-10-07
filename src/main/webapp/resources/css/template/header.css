@@ -1,0 +1,13 @@
+body {
+	/* -ms-overflow-style: none; */
+	font-family: Gulim;
+	overflow-x: hidden;
+}
+
+a {
+	font-size: 16px;
+}
+
+a:HOVER {
+	text-decoration: none;
+}
